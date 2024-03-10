@@ -1,2 +1,3 @@
 # ADS_03
-# Dieser Ornder enthält das im Kurs verwendete Jupyter Notebook, welches in VS Code erstellt wurde.
+Dieser Ordner enthält das im Kurs verwendete Jupyter Notebook, welches in VS Code erstellt wurde.
+Da der vorgeschlagene Datensatz verwendet wurde, ist dieser nicht im Repository hinterlegt!
